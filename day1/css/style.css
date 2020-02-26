@@ -1,0 +1,12 @@
+button {
+    margin-top: 50vh;
+    border: 2px solid rgba(255,255,255,0.5);
+    
+}
+
+button:hover{
+    box-shadow: rgba(255,255,255,0.5);
+    transform: scale(1.1);
+    background: linear-gradient(to right, rgb(233, 135, 135), rgb(121, 121, 223));
+
+}
