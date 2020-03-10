@@ -1,2 +1,2 @@
 # 100-days
-100 Coding Challenges in JavaScript in 100 Days
+100 JavaScript Coding Challenges in 100 Days
