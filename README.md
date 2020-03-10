@@ -2,7 +2,7 @@
 ### 100 JavaScript Coding Challenges in 100 Days
 ---
 <br/>
-Day:
+Day: <br/>
 1. Project_Change_Color_Background
 2. Random-Quotes-Project
 3. Counter-Project
