@@ -1,4 +1,4 @@
-# 100-days
+# 100-Days Coding Challege
 ### 100 JavaScript Coding Challenges in 100 Days
 ---
 <br/>
