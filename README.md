@@ -3,8 +3,8 @@
 ---
 <br/>
 Day: <br/>
-1. Project_Change_Color_Background
-2. Random-Quotes-Project
-3. Counter-Project
-4. Pass-the-Message-Project
-5. Background-Image-Slider-Project
+1. Change Background into Random Color
+.. Random Quotes
+.. Counter 
+.. Pass the Message 
+.. Background Image Slider
