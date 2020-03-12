@@ -7,3 +7,4 @@ Day 2: Random Quotes Generator <br/>
 Day 3: Counter <br/>
 Day 4: Pass the Message <br/>
 Day 5: Background Image Slider <br/>
+Day 6: Drum Kit <br/>
