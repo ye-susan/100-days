@@ -1,0 +1,41 @@
+/* CSS Variables
+must declare them on an element (i.e. root, the highest level element
+    variables are declared by '--'
+    to use a variable, use 'var(--spacing)'
+*/
+
+:root {
+    --base: #df923a;
+    --spacing: 20px;
+    --blur: 10px;
+}
+
+img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+    width: 25em;
+    height: 25em;
+}
+
+.highlight {
+    color: var(--base);
+}
+
+/* Misc Styles */
+body {
+    text-align: center;
+    background: #3493d6a2;
+    color: rgb(240, 164, 0);
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 50;
+    font-size: 25px;
+}
+
+.controls {
+    margin-bottom: 50px;
+}
+
+input {
+    width: 100px;
+}
