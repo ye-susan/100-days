@@ -10,3 +10,4 @@ Day 5: Background Image Slider <br/>
 Day 6: Drum Kit <br/>
 Day 7: Analog Clock <br/>
 Day 8: CSS Variables with JavaScript <br/>
+Day 9: CSS and JS Flex Panel Gallery <br/>
