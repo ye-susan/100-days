@@ -11,3 +11,4 @@ Day 6: Drum Kit <br/>
 Day 7: Analog Clock <br/>
 Day 8: CSS Variables with JavaScript <br/>
 Day 9: CSS and JS Flex Panel Gallery <br/>
+Day 10: Tip Calculator <br/>
