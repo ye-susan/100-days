@@ -1,0 +1,53 @@
+html {
+    background-color: rgb(210, 252, 252);
+}
+
+body {
+    text-align: center;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+div{
+    margin: 10px;
+}
+
+button {
+    margin-top: 20%;
+    margin-bottom: 5%;
+    padding-bottom: 35px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    width: 100px;
+    text-justify: initial;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border: 3px solid rgba(167, 233, 233, 0.808);
+}
+
+.rock {
+    background-image: url(/img/rock.png);
+    
+}
+
+.paper {
+    background-image: url(/img/paper.png);
+    background-size: 25%;
+    background-position-y: 38px;
+}
+
+.scissor {
+    background-image: url(/img/scissor.png);
+    background-size: 27%;
+    background-position-y: 37px;
+}
+
+.reset {
+    padding: 2px;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 10%;
+}
