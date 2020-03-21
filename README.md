@@ -13,3 +13,7 @@ Day 8: CSS Variables with JavaScript <br/>
 Day 9: CSS and JS Flex Panel Gallery <br/>
 Day 10: Tip Calculator <br/>
 Day 11: Time-Dependent Greetings <br/>
+Day 12: Coin Toss <br/>
+Day 13: Rock Paper Scissors <br/>
+Day 14: Dice Game, version 1 <br/>
+Day 15: Dice Game, version 2 <br/>
