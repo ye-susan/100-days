@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    margin-top: 10%;
+}
+.output {
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 2em; 
+    padding: 5px;
+}
+
+button {
+    padding: 10px;
+    text-align: center;
+    width: 450px;
+}
+
+.dicer {
+    border: 1px solid black;
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    border-radius: 10px;
+    padding-bottom: 1px;
+    margin-left: 55px;
+}
+
+.viewWindow {
+    display: inline-block;
+    width: 211px;
+    height: 150px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.players {
+    display: inline-block;
+    font-family: monospace;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0px;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
