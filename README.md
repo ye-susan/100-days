@@ -17,3 +17,5 @@ Day 12: Coin Toss <br/>
 Day 13: Rock Paper Scissors <br/>
 Day 14: Dice Game, version 1 <br/>
 Day 15: Dice Game, version 2 <br/>
+Day 16: Animal Sound Effects <br/>
+Day 17: Typing Test <br/>

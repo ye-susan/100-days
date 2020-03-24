@@ -1,5 +1,5 @@
 const playSound = (e) => {
-    //the way HTML is set up, the keycode is the attribute, so we wnat the audio's attribute to get the keycode
+    //the way HTML is set up, the keycode is the attribute, so we want the audio's attribute to get the keycode
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     console.log(key,"1");
