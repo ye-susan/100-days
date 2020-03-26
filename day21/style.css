@@ -1,0 +1,19 @@
+.num {
+    font-size: 2em;
+    margin-left: 5px;
+}
+
+button {
+    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+small {
+    font-size: 0.8em;
+    font-family: sans-serif;
+}
+
+.userDigits {
+    margin: 5px;
+}
