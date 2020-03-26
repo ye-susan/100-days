@@ -20,3 +20,5 @@ Day 15: Dice Game, version 2 <br/>
 Day 16: Animal Sound Effects <br/>
 Day 17: Typing Test <br/>
 Day 18: Functionator <br/>
+Day 19: Magic Eight Ball <br/>
+Day 20: Mini Accordion <br/>
