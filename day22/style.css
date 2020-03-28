@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1546098073-824dc02b63d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1275&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    margin-top: 30%;
+    margin-left: 35%;
+    font-family: monospace;
+    color: rgb(175,142,121);
+}
+
+h1{
+    color: rgba(177,129,87);
+    font-size: 3em;
+}
+
+input, button {
+    background-color: rgba(246,200,151,0.5);
+    border: 2px solid rgba(246,200,151,0.7);
+    color: rgb(97,66,37);
+}
+
+.message {
+    padding: 5px;
+    color: rgb(73, 49, 26);
+}
+
+.hidden {
+    display: none;
+}
