@@ -7,9 +7,9 @@ const easy = document.querySelector(".easy");
 const med = document.querySelector(".med");
 const hard = document.querySelector(".hard");
  
-const easyWords = ["website", "html", "document","data"];
-const medWords = ["javascript", "algorithms", "theories", "computers", "science"];
-const hardWords = ["initialization", "currying", "object-oriented", "multi-paradigm"];
+const easyWords = ["site", "html", "link","data"];
+const medWords = ["javascript", "object", "theory", "computers", "science"];
+const hardWords = ["initialize", "currying", "algorithm", "language"];
 
 let inPlay = false;
 let origWord = "";
@@ -18,7 +18,7 @@ let score = 0;
 let arr = [];
 let indexTracker = [];
 
-//MAIN
+
 level.forEach(function(lev) {
     lev.addEventListener("click", function(){
         if (lev.innerHTML == "Easy"){
@@ -52,8 +52,10 @@ level.forEach(function(lev) {
                         inPlay = false;
                         if (score > 1) {
                             message.innerHTML = `Correct! The word was <strong>${origWord}</strong>. It took ${score} guesses.`
+                            guess.value = "";
                         } else {
                             message.innerHTML = `Correct! The word was <strong>${origWord}</strong>. It took ${score} guess.`
+                            guess.value = "";
                         }
                         start.innerHTML = "Start";
                         origWord = createWord(arr);
@@ -67,7 +69,6 @@ level.forEach(function(lev) {
         }) 
     })
 })
-
 
 const createWord = () => {
     let randomIndex;
@@ -94,6 +95,6 @@ const scrambleWord = (array) => {
 }
 
 const gameEnd = () => {
-    message.innerHTML = `Congrats! You've completed the this level! Replay?`;
-    guess.classList.toggle("hidden");
+    message.innerHTML = `Congrats! You've completed the this level! Refresh to replay.`;
+    start.classList.toggle("hidden");
 }
