@@ -7,6 +7,7 @@ endDate.addEventListener("change", function(e){ //whenever endDate value changes
     e.preventDefault();
     clearInterval(timeInterval); //clear interval to stop countdown when we change the date or to prevent more than 1 interval from running
     const temp = new Date(endDate.value);
+    temp.setDate(temp.getDate() + 1)
     temp.setHours(0);
     localStorage.setItem("countdown", temp);
     startClock(temp);    
@@ -59,7 +60,7 @@ if (savedValue) {
     endDate.valueAsDate = inputValue; //valueAsDate, is basically same as .value, but formatted as Date
 }
 
-/**
+/*
  * if we reset page, we lose our countdown time
  * so we want to use localStorage to store contents so on refresh, the date is still there and the countdown clock is still/already running.
  */
