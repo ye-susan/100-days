@@ -21,4 +21,7 @@ Day 16: Animal Sound Effects <br/>
 Day 17: Typing Test <br/>
 Day 18: Functionator <br/>
 Day 19: Magic Eight Ball <br/>
-Day 20: Mini Accordion <br/>
+Day 20: Accordion Panels <br/>
+Day 21: Combination Guesser Game <br/>
+Day 22: Word Scramble <br/>
+Day 23: Countdown Timer <br/>
