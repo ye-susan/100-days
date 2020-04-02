@@ -25,3 +25,5 @@ Day 20: Accordion Panels <br/>
 Day 21: Combination Guesser Game <br/>
 Day 22: Word Scramble <br/>
 Day 23: Countdown Timer <br/>
+Day 24: Pattern Matching Game <br/>
+Day 25: Petting Zoo (Whack-A-Mole style game) <br/>
