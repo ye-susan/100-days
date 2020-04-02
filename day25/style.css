@@ -1,0 +1,66 @@
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1500076656116-558758c991c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn {
+    cursor: pointer;
+    padding: 15px;
+    border: 2px solid #657b97;
+    text-align: center;
+    background-color: rgb(139,159,185,0.8);
+    color: rgb(245, 240, 233);
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: bold;
+}
+.page {
+    display: none;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.visible {
+    display: block;
+}
+
+.pop {
+    background-color: rgb(253, 223, 181, 0.95);
+    border: 1px solid rgb(159,84,26);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    color: rgb(127,88,59);
+    font-size: 2em;
+    font-family: fantasy;
+}
+
+.row {
+    display: block;
+}
+
+.active {
+    border: 1px solid rgb(87,33,21);
+}
+
+.stats {
+    height: 50px;
+    background-color: rgba(139,159,185,0.6);
+    color: rgb(245, 240, 233);
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.msg {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10%;
+    background-color: rgba(139,159,185,0.9);
+    color: rgb(245, 240, 233);
+    padding: 10px;
+}
