@@ -1,0 +1,31 @@
+body {
+    background-color:rgba(252, 253, 244, 0.712);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.message {
+    margin-top: 5%;
+    padding: 10px;
+    font-weight: bold;
+}
+
+button {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box{
+    display: inline-block;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(105, 170, 179);
+    text-align: center;
+    background-color: rgb(159, 232, 241);
+    opacity: 1.0;
+}
+
+.hidden {
+    visibility: hidden;
+}
