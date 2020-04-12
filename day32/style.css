@@ -1,0 +1,67 @@
+
+.copyMe {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+#garbage {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+
+    border-top: 100px solid rgb(100, 106, 109);
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    height: 0px;
+    width: 70px;
+    text-align: center;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: turquoise;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid lightsalmon;
+}
+
+.rectangle {
+    width: 150px;
+    height: 100px;
+    background-color: thistle;
+}
+
+.trapezoid {
+    border-bottom: 100px solid rgb(231, 216, 127);
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 100px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+}
+
+.halfcircle {
+    width: 150px;
+    height: 100px;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    background-color: yellowgreen;
+}
+
+/*Code for triangle and trapezoid from CSS-Tricks*/
