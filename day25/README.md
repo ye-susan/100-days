@@ -1,3 +1,6 @@
-Petting Zoo (Whack-A-Mole style game)
+# Petting Zoo (Whack-A-Mole style game)
 </br>
-From: Laurence Svekis's Monster JavaScript Course
+With additional feature of speeding up game play as score increases.
+</br>
+</br>
+From: Laurence Svekis's JavaScript 50+ Projects Course

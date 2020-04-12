@@ -1,5 +1,5 @@
 # Click Counter
-Exercise: Creating HTML Elements and Styling in JS with a simple counter
+Creating HTML Elements and Styling in JS with a simple counter
 </br>
 Additional Feature: Draggable button.
 </br>

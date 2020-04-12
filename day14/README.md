@@ -1,3 +1,3 @@
-Dice Game, Version 1: Using Unicode Dice
+# Dice Game, Version 1: Using Unicode Dice
 </br>
-From: Laurence Svekis's Monster JavaScript Course
+From: Laurence Svekis's JavaScript 50+ Projects Course

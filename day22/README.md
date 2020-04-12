@@ -1,3 +1,6 @@
-Combination Guesser Game
+# Word Scramble
 </br>
-From: Laurence Svekis's Monster JavaScript Course
+Additonal feature of three different levels of difficulty
+</br>
+</br>
+From: Laurence Svekis's JavaScript 50+ Projects Course

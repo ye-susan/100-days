@@ -1,3 +1,6 @@
-Welcome Messages (adjusted to Time of Day)
+# Welcome Messages
 </br>
-From: Laurence Svekis's Monster JavaScript Course
+With background image adjusted to time of day.
+</br>
+</br>
+From: Laurence Svekis's JavaScript 50+ Projects Course

@@ -21,9 +21,16 @@ Day 16: Animal Sound Effects <br/>
 Day 17: Typing Test <br/>
 Day 18: Functionator <br/>
 Day 19: Magic Eight Ball <br/>
-Day 20: Accordion Panels <br/>
+Day 20: Exercise - Accordion Panels <br/>
 Day 21: Combination Guesser Game <br/>
 Day 22: Word Scramble <br/>
 Day 23: Countdown Timer <br/>
 Day 24: Pattern Matching Game <br/>
 Day 25: Petting Zoo (Whack-A-Mole style game) <br/>
+Day 26: High-Low Card Game <br/>
+Day 27: Exercise - Click Reaction <br/>
+Day 28: Hidden Word Scramble <br/>
+Day 29: Draggable Clicker <br/>
+Day 30: Exercise: Input Field Character Counter <br/>
+Day 31: Exercise: Content Scroller <br/>
+Day 32: Play Blocks - Element Clones <br/>

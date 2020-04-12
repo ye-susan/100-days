@@ -1,3 +1,3 @@
-Accordion Panels
+# Exercise: Accordion Panels
 </br>
-From: Laurence Svekis's Monster JavaScript Course
+From: Laurence Svekis's JavaScript 50+ Projects Course

@@ -1,3 +1,3 @@
-Combination Guesser Game
+# Combination Guesser Game
 </br>
-From: Laurence Svekis's Monster JavaScript Course
+From: Laurence Svekis's JavaScript 50+ Projects Course
