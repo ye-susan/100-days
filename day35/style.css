@@ -1,0 +1,84 @@
+html {
+    background-image: url(https://images.unsplash.com/photo-1570998798313-c0789ebac8cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+    background-size: cover;
+    background-position: unset;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+button.modal{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 10px;
+    width: 40%;
+    background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C); /*from http://www.brandgradients.com/gold-gradient */
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    color: rgb(54, 54, 54);
+}
+
+.modalWrapper {
+    display: none;
+}
+.modalWrapper.showModal{
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.modalBody .h2{
+    background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+    color: rgb(3, 2, 66);
+    font-size: 1.7em;
+    padding: 20px;
+}
+
+.modalMain {
+    background-image: url(https://images.unsplash.com/photo-1496950866446-3253e1470e8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);    
+    background-size: cover;
+    height: 100px;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.514);
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    text-align: center;
+    font-size: 1.4em;
+    color: rgb(3, 2, 66);
+    z-index: 100;
+}
+
+.modalBody footer{
+    background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+    text-align: center;
+    font-size: 1em;
+    color:rgb(3, 2, 66);
+    padding: 10px;
+}
+
+.modalBody {
+    width: 50%;
+    left: 25%;
+    top: 10%;
+    position: absolute;
+    background-color: aliceblue;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 0.6em;
+    background: linear-gradient(to right, #BF953F, #FCF6BA, #AA771C);
+    border: none;
+}
