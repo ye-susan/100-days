@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Courgette, Arial;
+}
+button {
+    margin-top: 50vh;
+    border: 2px solid rgb(255, 255, 255);
+    color: gray;
+    
+}
+
+button:hover{
+    box-shadow: rgb(255, 255, 255);
+    transform: scale(1.1);
+    background: linear-gradient(to right, rgb(233, 135, 135), rgb(255, 227, 137), rgb(135, 177, 233));
+
+}
