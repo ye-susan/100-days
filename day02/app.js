@@ -30,17 +30,13 @@ const quotes = [
     }
 ];
 
-
 const btn = document.getElementById("generate-btn");
 
-//randomized quote upon click
 function populateQuote(){
   const randomIndex = [Math.floor((Math.random() * quotes.length) + 0)];
   document.getElementById("quote").textContent = quotes[randomIndex].quote;
-  document.querySelector(".author").textContent = quotes[randomIndex].author;
+  document.querySelector(".author").textContent = `${quotes[randomIndex].author}`;
 }
 
-//populate page with quotes upon start
 populateQuote();
-
 btn.addEventListener("click", populateQuote, false);
