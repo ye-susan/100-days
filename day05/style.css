@@ -2,9 +2,6 @@
   --mainLightGreen: #a7c8c1;
   --mainGreen: #548c60;
 }
-.max-height {
-  min-height: 100vh;
-}
 body {
   background: var(--mainLightGreen);
 }
@@ -14,40 +11,34 @@ body {
   border: 0.5rem solid var(--mainGreen);
   border-radius: 0.5rem;
   position: relative;
+  width: 80%;
+  margin: auto;
 }
 @media screen and (min-width: 768px) {
   .img-container {
     min-height: 80vh;
   }
 }
-
-.btn-left {
+.btn {
   position: absolute;
   top: 50%;
-  left: 0;
   background: var(--mainGreen);
   color: var(--mainLightGreen) !important;
-  transform: translate(-50%, -50%);
-  border: 0.2rem solid var(--mainGreen);
   font-size: 1.2rem;
+  border: 0.2rem solid var(--mainGreen);
+  padding: 5px 12px;
+  border-radius: 3px;
 }
-.btn-left:hover {
+.btn:hover {
   border-color: var(--mainGreen);
   background: var(--mainLightGreen);
   color: var(--mainGreen) !important;
+}
+.btn-left {
+  left: 0;
+  transform: translate(-50%, -50%);
 }
 .btn-right {
-  position: absolute;
-  top: 50%;
   right: 0;
-  background: var(--mainGreen);
-  color: var(--mainLightGreen) !important;
-  font-size: 1.2rem;
   transform: translate(50%, -50%);
-  border: 0.2rem solid var(--mainGreen);
-}
-.btn-right:hover {
-  border-color: var(--mainGreen);
-  background: var(--mainLightGreen);
-  color: var(--mainGreen) !important;
 }
