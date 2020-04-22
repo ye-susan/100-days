@@ -4,20 +4,10 @@ const message = document.querySelector(".message");
 const replay = document.querySelector(".inputReplay");
 
 let answerArray = ["Probably", "Very likely", "Maybe, maybe not", "I'm not sure about that", "Sure thing"];
-
-// const answerQ = (e) => {
-//     //find way to output message if no question is asked
-
-//     //
-//     let ans = Math.floor(Math.random()* answerArray.length);
-//     replay.innerText = input.value;
-//     message.innerHTML = "<br>" + answerArray[ans];
-//     console.log(input.value);
-//     input.value = "";
-// }
-
+message.style.display = "none";
 
     button.addEventListener("click", function(){
+        message.style.display = "block";
         let ans = Math.floor(Math.random()* answerArray.length);
         replay.innerText = input.value;
         if (input.value !== ""){
