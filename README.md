@@ -31,6 +31,16 @@ Day 26: High-Low Card Game <br/>
 Day 27: Exercise - Click Reaction <br/>
 Day 28: Hidden Word Scramble <br/>
 Day 29: Draggable Clicker <br/>
-Day 30: Exercise: Input Field Character Counter <br/>
-Day 31: Exercise: Content Scroller <br/>
+Day 30: Exercise - Input Field Character Counter <br/>
+Day 31: Exercise - Content Scroller <br/>
 Day 32: Play Blocks - Element Clones <br/>
+Day 33: Pop-Up Image Gallery <br/>
+Day 34: Hangman Game <br/>
+Day 35: Pop-Up Modal <br/>
+Day 36: Image Carousel <br/>
+Day 37: Exercise - Star Ratings <br/>
+Day 38: Gardening Game <br/>
+Day 39: Box Chaser Game <br/>
+Day 40: Exercise - Pop-Up Tooltip <br/>
+Day 41: Email Extractor <br/>
+Day 42: Exercise - Pop-Up Message <br/>
