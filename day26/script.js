@@ -14,10 +14,9 @@ for (let i = 0; i < button.length; i++) {
 }
 
 function playGame(e) {
-    console.log("clicked");
     let temp = e.target.innerText;
     let myCard = drawCard();
-    console.log(temp);
+
     if (temp == "Start"){
         message.innerHTML = "Higher or Lower";
         gamePlay.innerHTML = "";
@@ -44,7 +43,6 @@ function drawCard() {
     if(deck.length > 0) {
         let ranIndex = Math.floor(Math.random() * deck.length);
         let card = deck.splice(ranIndex, 1)[0];
-        console.log(card);
         return card;
     } else {
         makeDeck()
