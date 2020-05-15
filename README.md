@@ -44,3 +44,6 @@ Day 39: Box Chaser Game <br/>
 Day 40: Exercise - Pop-Up Tooltip <br/>
 Day 41: Email Extractor <br/>
 Day 42: Exercise - Pop-Up Message <br/>
+Day 43: Exercise - Clipboard <br/>
+Day 44: Calculator <br/>
+Day 45: Shopping List <br/>
