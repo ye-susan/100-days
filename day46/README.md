@@ -1,5 +1,5 @@
-# Form Validation
-Exercise to use JavaScript and regex to validate forms (instead of using the HTML input types).
+# Advent of Code 2015 - Day 1
+Santa's Node Helper
 </br>
 </br>
-From: Laurence Svekis's JavaScript 50+ Projects Course
+https://adventofcode.com/2015/day/1
