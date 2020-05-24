@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Day 1
-Santa's Node Helper
+Santa's Node Helper - Using Node.js
 </br>
 </br>
-https://adventofcode.com/2015/day/1
+From: https://adventofcode.com/2015/day/1
